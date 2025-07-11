@@ -6,7 +6,7 @@ LABEL org.opencontainers.image.source=https://github.com/ansible/ansible-dev-too
 LABEL org.opencontainers.image.authors="Ansible DevTools"
 LABEL org.opencontainers.image.vendor="Red Hat"
 LABEL org.opencontainers.image.licenses="GPL-3.0"
-LABEL org.opencontainers.image.description="An OpenShift Dev Spaces container image for Ansible."
+LABEL org.opencontainers.image.description="Playing with Ansible devtools"
 
 USER 0
 
